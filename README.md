@@ -7,4 +7,4 @@
  -HTML
 <br>
  -CSS
-<img src="![image](https://github.com/user-attachments/assets/47fcf204-5fb9-42d6-b209-869a82aee1fc)"/>
+<img src="https://github.com/nicollesilva07/Easy-shopping/blob/main/Captura%20de%20tela%202024-08-21%20190926.png?raw=true"/>
